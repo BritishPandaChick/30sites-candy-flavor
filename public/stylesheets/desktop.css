@@ -1,0 +1,123 @@
+/* Base Styles */
+body {
+    width: 100%;
+    margin: 0 auto;
+    color: #333;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Header */
+header {
+    background-color: #800080;
+    padding: 20px 0;
+}
+
+header .navbar-brand {
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+
+header nav ul li a {
+    font-size: 20px;
+    padding: 0 15px;
+}
+
+header nav ul li a:hover {
+    color: #FFA500;
+}
+
+/* Banner */
+#banner {
+    background-image: url("https://vignette.wikia.nocookie.net/onceuponatime8042/images/1/15/506CandyBars.png/revision/latest?cb=20160913062845");
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+
+/* Email */
+#email {
+    background-color: #800080;
+    padding: 20px 0;
+}
+
+#email h2 {
+    color: #fff;
+    font-size: 45px;
+    padding: 25px 0;
+}
+
+/* New */
+#new {
+    padding: 40px 0;
+}
+
+#new h2 {
+    font-size: 45px;
+    color: #ff0000;
+    padding: 10px 0;
+}
+
+#new h3 {
+    font-size: 35px;
+}
+
+#new p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Featured */
+#featured {
+    padding: 40px 0;
+    border: 2px solid #800080;
+}
+
+#featured img {
+    padding-bottom: 15px;
+}
+
+#featured h3 {
+    font-size: 35px;
+}
+
+#featured p {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+/* Bottom Nav */
+#bottom-nav {
+    padding: 20px 0;
+}
+
+#bottom-nav nav ul li a {
+    padding: 0 25px;
+    font-size: 16px;
+}
+
+#bottom-nav nav ul li a:hover {
+    color: #800080;
+}
+
+/* Connect */
+#connect {
+    padding: 15px 0;
+}
+
+#connect nav ul {
+    padding-left: 97px;
+}
+
+#connect nav ul li i {
+    color: #800080;
+    padding: 0 85px;
+}
+
+/* Copyright */
+#copyright {
+    padding: 15px 0;
+}
+
+#copyright p {
+    font-size: 16px;
+}
