@@ -1,11 +1,11 @@
-# 30 Days, 30 Sites Day Nineteen Site
-30 Days, 30 Sites Day 19 project. Candy-new flavor website. Made with HTML, CSS, Bootstrap, and JavaScript.
+# 30 Days, 30 Sites Day 19: Candy Website
+A website based on a new flavor of candy. This is another variation of a previous project I have made for 100 Days of Code.
 
-## Instructions
-Clone this repo or download the zip file.
-
-## Contributions
-I will not be accepting pull requests.
+## Tech Stack
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ## Acknowledgements
 * 30 Days, 30 sites
